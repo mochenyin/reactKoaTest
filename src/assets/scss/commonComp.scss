@@ -1,0 +1,22 @@
+#updateUserImg {
+  width: 600px;
+  height: 500px;
+  border: 1px solid grey;
+  margin: 20px auto;
+  .userImg {
+    width: 250px;
+    height: 250px;
+    margin: 20px auto;
+    border: 1px dashed grey;
+  }
+  .ant-upload {
+    height: 200px !important;
+    width: 98% !important;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 1.5em;
+    .anticon-inbox {
+      color: #218cff;
+    }
+  }
+}
